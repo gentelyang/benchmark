@@ -1,4 +1,4 @@
-小op如何跑GPU和CPU性能和效果
+                                 op如何跑GPU和CPU性能和精度
 
 一：以matmul为例（测试matmul速度）
 
